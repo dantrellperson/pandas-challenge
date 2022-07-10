@@ -1,4 +1,4 @@
-This script will accomplish the below using Pandas and Jupyter Notebook:
+My report will display the below data:
 
 District Summary
 Create a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
